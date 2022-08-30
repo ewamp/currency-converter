@@ -9,25 +9,25 @@
     border: 1px solid #ccc;
     padding: 10px;
     width: 100%;
-    max-width: 350px;
+    max-width: 477px;
     border-radius: 5px;
 }
 
 .form__button {
     width: 100%;
     border: none;
-    background-color: hsl(271, 53%, 69%);
+    background-color: hsl(156deg 10% 47%);
     color: white;
     padding: 10px;
     border-radius: 5px;
 }
 
 .form__button:hover {
-    background-color: hsl(271, 53%, 75%);
+    background-color: hsl(156deg 10% 60%);
 }
 
 .form__button:active {
-    background-color: hsl(271, 53%, 80%);
+    background-color: hsl(156deg 10% 70%);
 }
 
 .form__fieldset {
@@ -38,10 +38,13 @@
 }
 
 .form__paragraph {
+    font-size: 25px;
+    text-align: center;
     border: 1px solid #ccc;
     padding: 20px;
     border-radius: 5px;
     margin: 20px 0
+    
 }
 
 .form__paragraphSource {
