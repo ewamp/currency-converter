@@ -44,9 +44,8 @@
     padding: 20px;
     border-radius: 5px;
     margin: 20px 0
-    
 }
 
-.form__paragraphSource {
+.form__paragraph--smallFont {
     font-size: 10px;
 }
